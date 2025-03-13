@@ -11,3 +11,4 @@
 - **Customization Options:** Change the cursor's color and select between different tail styles (dots or continuous trail).
 
 
+
